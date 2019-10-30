@@ -57,4 +57,4 @@ lh.BN_Atlas.gcs, rh.BN_Atlas.gcs
 > freesurfer format, used to generate Brannetome Atlas annotation (parcellation) for subjects
 
 BN_Atlas_246_LUT.txt
-> color table (look up table) for 246 Brainnetome Atlas cortical subregions and subcortical subregions in freesurfer format
+> color table (look up table) for 246 Brainnetome Atlas cortical and subcortical subregions in freesurfer format
